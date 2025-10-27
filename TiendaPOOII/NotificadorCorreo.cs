@@ -10,8 +10,8 @@ namespace TiendaPOOII
 {
     internal class NotificadorCorreo : Notificador
     {
-        private string correoEmisor = " ";
-        private string contrasena = "jariffa1224";
+        private string correoEmisor = "alessandraleon.c@gmail.com";
+        private string contrasena = " ";
         private string smtpServidor = "smtp.gmail.com";
         private bool usarSSL = true;
         private string correoReceptor = "112898@alumnouninter.mx";
